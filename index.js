@@ -3,7 +3,8 @@ let seasons = ['Summer', 'Autumn', 'Winter', 'Spring']
 
 
 
-document.getElementById("reesult").innerHTML = seasons[1];
+document.getElementById("result").innerHTML = seasons[1];
+
 
 
 
